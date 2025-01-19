@@ -20,13 +20,16 @@ After installing Python, move the program to your Python folder and launch it us
 
 1. Enter the lowest note used in the song (e.g., c2).
 ![](/assets/screen1.png)
-2. Enter the highest note used in the song (e.g., c4).
+
+3. Enter the highest note used in the song (e.g., c4).
 ![](./assets/screen2.png)
-3. The definition of different note frequencies from the given range will be generated as a list, which you will paste into Desmos. This process is further explained in the Desmos tutorial below.
-4. Manually enter the notes separated by commas into the program. Add pauses between notes to ensure they sound correctly. (A pause is always added automatically after each note to make the change in sound clear.)
-5. Once you have finished entering the notes, type `0` to end the program.
+
+5. The definition of different note frequencies from the given range will be generated as a list, which you will paste into Desmos. This process is further explained in the Desmos tutorial below.
+6. Manually enter the notes separated by commas into the program. Add pauses between notes to ensure they sound correctly. (A pause is always added automatically after each note to make the change in sound clear.)
+7. Once you have finished entering the notes, type `0` to end the program.
 ![](./assets/screen3.png)
-6. Paste the lines into Desmos as explained in the tutorial below.
+
+9. Paste the lines into Desmos as explained in the tutorial below.
 
 #### Desmos
 
@@ -35,18 +38,26 @@ After installing Python, move the program to your Python folder and launch it us
 
  > **WARNING! Note frequency definitions (`f(x) = {...}`) may paste the braces in incorrect positions (or may not paste them at all). You will need to fix this manually by adding the opening brace `{` after the `=` sign, the closing brace `}` at the end of the entire list, and removing the last comma in the list before the closing brace.**
  ![](./assets/screen4.png)
+
  ![](./assets/screen5.png)
+ 
 
  ![](./assets/screen6.png)
+ 
  ![](./assets/screen7.png)
+ 
 2. Create the variable sliders suggested by Desmos (click on the small icons to add sliders).
 ![](./assets/screen8.png)
-3. To set up the song correctly, adjust the speed and the range of the variable sliders. The number after the 'length of smaller segments' represents the maximum value. The minimum value for the first slider should be set to 1, and for the next sliders, it should be set to 0.
+
+4. To set up the song correctly, adjust the speed and the range of the variable sliders. The number after the 'length of smaller segments' represents the maximum value. The minimum value for the first slider should be set to 1, and for the next sliders, it should be set to 0.
 ![](./assets/screen9.png)
+
 ![](./assets/screen10.png)
-4. To adjust the speed, open the slider settings (the icon under the 'play button') and reduce the speed to match your song's tempo. Change the animation mode to 'Play Once.'
+
+6. To adjust the speed, open the slider settings (the icon under the 'play button') and reduce the speed to match your song's tempo. Change the animation mode to 'Play Once.'
 ![](./assets/screen11.png)
-5. Enable sound at the top of the page by clicking the speaker icon.
+
+8. Enable sound at the top of the page by clicking the speaker icon.
 ![](./assets/screen12.png)
 
 **If you have more sliders it will look like this:**
