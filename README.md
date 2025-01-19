@@ -27,11 +27,14 @@ After installing Python, move the program to your Python folder and launch it us
 ![](./assets/screen2.png)
 <br>
 3. The definition of different note frequencies from the given range will be generated as a list, which you will paste into Desmos. This process is further explained in the Desmos tutorial below.
+   
 4. Manually enter the notes separated by commas into the program. Add pauses between notes to ensure they sound correctly. (A pause is always added automatically after each note to make the change in sound clear.)
+   
 5. Once you have finished entering the notes, type `0` to end the program.
 <br>
 ![](./assets/screen3.png)
 <br>
+
 6. Paste the lines into Desmos as explained in the tutorial below.
 
 #### Desmos
