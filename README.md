@@ -64,7 +64,7 @@ After installing Python, move the program to your Python folder and launch it us
 ![](./assets/screen10.png)
 
 4. To adjust the speed, open the slider settings (the icon under the 'play button') and reduce the speed to match your song's tempo. Change the animation mode to 'Play Once.'
-<br>
+
 ![](./assets/screen11.png)
 
 5. Enable sound at the top of the page by clicking the speaker icon.
