@@ -156,6 +156,7 @@ def song_maker():
         _input = _input.lower()
         list = _input.split(",")
         for element in list:
+            element = element.strip()
             if element == "p":
                 notes_output.append(0)
         
